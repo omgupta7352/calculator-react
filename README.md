@@ -1,3 +1,26 @@
+# CALCULATOR
+
+![CALCULATOR](calculator.png)
+
+This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you! The challenge is to build out this calculator app and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Users should be able to:
+1. See the size of the elements adjust based on their device's screen size
+2. Perform mathematical operations like addition, subtraction, multiplication, and division
+
+## Built with:
+
+ - Semantic HTML5 markup
+ - CSS custom properties
+ - Flex
+ - Grid
+ - ReactJs
+
+## BROWSER SUPPORT :man_technologist:
+
+Chrome, Firefox 3.5+, Safari 4+, Opera 10+, Internet Explorer 8+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
