@@ -12,6 +12,7 @@ Users should be able to:
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -22,6 +23,10 @@ Users should be able to:
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear button to reset the calculator.
 - Responsive design for mobile and desktop use.
+
+## Demo
+
+You can try out the Calculator live [here](https://react-calculator-omgupta.netlify.app/).
 
 ## Technologies Used
 
@@ -37,7 +42,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/calculator.git
+    git clone https://github.com/omgupta7352/calculator-react.git
     ```
 
 2. Navigate to the project directory:
