@@ -8,17 +8,6 @@ Users should be able to:
 1. See the size of the elements adjust based on their device's screen size
 2. Perform mathematical operations like addition, subtraction, multiplication, and division
 
-## Built with:
-
- - Semantic HTML5 markup
- - CSS custom properties
- - Flex
- - Grid
- - ReactJs
-
-# Calculator
-
-The Calculator project is a web-based application that allows users to perform basic arithmetic operations. This project is built using HTML, CSS, JavaScript, and React.
 
 ## Table of Contents
 
