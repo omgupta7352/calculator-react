@@ -4,10 +4,6 @@
 
 This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you! The challenge is to build out this calculator app and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Users should be able to:
-1. See the size of the elements adjust based on their device's screen size
-2. Perform mathematical operations like addition, subtraction, multiplication, and division
-
 
 ## Table of Contents
 
