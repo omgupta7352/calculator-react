@@ -16,9 +16,92 @@ Users should be able to:
  - Grid
  - ReactJs
 
-## BROWSER SUPPORT :man_technologist:
+# Calculator
 
-Chrome, Firefox 3.5+, Safari 4+, Opera 10+, Internet Explorer 8+
+The Calculator project is a web-based application that allows users to perform basic arithmetic operations. This project is built using HTML, CSS, JavaScript, and React.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Features
+
+- Basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Clear button to reset the calculator.
+- Responsive design for mobile and desktop use.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/calculator.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd calculator
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+5. Open your web browser and go to `http://localhost:3000`.
+
+## Usage
+
+1. Open the application in your web browser.
+2. Use the buttons on the calculator to perform basic arithmetic operations.
+3. Click the "C" button to clear the input.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+3. Commit your changes:
+
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+
+4. Push to the branch:
+
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+
+5. Open a pull request on GitHub.
+
 
 
 # Getting Started with Create React App
